@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+
+.header{
+color: white;
+font-size: 30px;
+}
+
+#bed_room ,#TV_room ,#desk ,#bottles ,#fruit_basket{
+width: 200px;
+border-radius: 10px;
+font-size: 25px;
+box-shadow:5px 5px 5px black ;
+} 
